@@ -1,0 +1,6 @@
+Alguns comentários:
+  Na parte do formulário, optei por usar onchange, em vez de onclick ou oninput, já que, dessa forma, o evento é disparado quando o usuário remove o foco do campo.
+  Para testar o projeto, utilizei a extensão GA Debug.
+  E em relação à parte do pop up, inseri o código direto no arquivo js, dentro do código jQuery.
+ 
+ Abraços e obrigado pela oportunidade de aprendizagem!
